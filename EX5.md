@@ -97,3 +97,4 @@ select * from vj_log;
 ![image](https://github.com/21005984/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/94748389/60c2185e-9c4d-4823-b461-4809abdc4d94)
 
 ### Result:
+The program has been implemented successfully.
